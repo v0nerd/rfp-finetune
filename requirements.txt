@@ -1,0 +1,12 @@
+awscli==1.36.14
+boto3==1.35.73
+datasets==3.1.0
+docx2txt==0.8
+llama_index==0.12.2
+pandas==2.2.3
+peft==0.13.2
+python-docx==1.1.2
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+scikit-learn==1.5.2
+transformers==4.46.3

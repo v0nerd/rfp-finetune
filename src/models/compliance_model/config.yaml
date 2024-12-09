@@ -1,0 +1,11 @@
+model:
+  model_name: "bert-base-uncased"
+  model_path: "models/compliance_model_fine_tuned"
+
+training:
+  learning_rate: 0.00005
+  batch_size: 3
+  epochs: 10
+
+logging:
+  log_dir: "data/logs/"
